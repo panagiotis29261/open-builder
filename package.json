@@ -1,0 +1,10 @@
+{
+  "name": "open-builder",
+  "version": "0.1.0",
+  "description": "Open Builder is an open-source AI-powered app generator. Build web applications through natural language conversations.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
